@@ -17,7 +17,7 @@ To change the theme, edit `assets/unsw-theme.css` only; the original inline styl
 
 ### Lesson 6 · Information Security
 
-A self-contained interactive Chapter 4 companion for U.S. business students, matching Lesson 5’s blue, purple and green visual style and six-stage learning pattern.
+A self-contained interactive Chapter 4 companion for business students, matching Lesson 5’s blue, purple and green visual style and six-stage learning pattern.
 
 ## Open and use
 
@@ -27,7 +27,7 @@ The package includes six retryable checks, explanatory feedback, seven short vid
 
 ## Content and evidence
 
-Core coverage follows Chapter 4 sections 4.1–4.5. Contemporary additions are labeled. Case sources were checked September 30, 2026. The Qantas case includes the July 2026 OAIC update. AI use is documented for the impersonation examples, not asserted for Qantas or Change Healthcare. The café and its risk figures are fictional. The supplied Lesson 5 café illustration is reused; its README identified it as AI-generated.
+Contemporary additions are labeled. Case sources were checked September 30, 2026. The Qantas case includes the July 2026 OAIC update. AI use is documented for the impersonation examples, not asserted for Qantas or Change Healthcare. The café and its risk figures are fictional. The supplied Lesson 5 café illustration is reused; its README identified it as AI-generated.
 
 ## Videos
 
