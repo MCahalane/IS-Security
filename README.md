@@ -1,11 +1,11 @@
-# IS-Security · Information Security
+# IS-Security · Topic: IS Security
 
 A copy of the [security](https://github.com/MCahalane/security) lesson, restyled to match the UNSW Information Systems modules ([e-commerce](https://mcahalane.github.io/e-commerce-lesson/) and [data & knowledge management](https://mcahalane.github.io/information-systems-data-knowledge-management/)).
 
 ## What differs from `security`
 
-- **Look and feel:** `assets/unsw-theme.css` (loaded last) applies the UNSW palette (yellow `#ffe600`, black `#231f20`, soft yellow `#fff7bf`, grey rail), an angled yellow hero with a shield badge, a yellow active-stage nav, a reading-progress strip, and restyled stage headers, checks, callouts and the cognitive-security module. `lecture-visuals.html` uses the same palette.
-- **Branding text:** the sidebar, hero, footer and meta description say "Information Systems · Security module" instead of "Essentials of Information Systems · Lesson 6". The lesson body is unchanged.
+- **Look and feel:** `assets/unsw-theme.css` (loaded last) applies the UNSW palette (yellow `#ffe600`, black `#231f20`, soft yellow `#fff7bf`, grey rail), an angled yellow hero with a shield badge, a yellow active-stage nav, a reading-progress strip, and restyled stage headers, checks, callouts and the cognitive-security module. `key-visuals.html` uses the same palette.
+- **Standalone framing:** presented as "Information Systems · Topic: IS Security", a standalone learning resource. References to other lessons and classes (Lesson 5, Lesson 6, Class 6, the lecture) are removed or reworded; the six summary visuals live in `assets/visuals/` and are gathered on `key-visuals.html` (formerly `lecture-visuals.html`). The worksheet downloads as `IS-Security-Worksheet.txt`.
 - **Storage keys:** progress saves under `is-security-v1` and `is-security-cognitive-plan-v1`, so this site and the original (both on `mcahalane.github.io`) don't overwrite each other's saved answers.
 - **Favicon:** `favicon.svg` (yellow "IS" tile).
 
